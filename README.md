@@ -14,7 +14,7 @@ Percobaan sebelum prem
  pip install rich
  git clone https://github.com/Reza-muhamad/Rezastore
  cd Rezastore
- python Reza.py
+ python REZA.py
 ```
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
