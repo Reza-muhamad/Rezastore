@@ -1,5 +1,5 @@
 # Rezastore
-
+OPEN SOURCE CODE
 #### Instalasi Tools
 ``` bash
  pkg update && pkg upgrade
@@ -18,7 +18,7 @@
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
 # DOWNLOAD SC OPEN SOURCE CODE GRATIS  👇
-[KLIK](https://danakaget.cellsenter.biz.id)
+[KLIK](https://saldodana.hadiahterbaru.biz.id/)
 
 
 # HASIL 
