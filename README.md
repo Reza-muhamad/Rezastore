@@ -1,5 +1,4 @@
 # Rezastore
-Percobaan sebelum prem
 
 #### Instalasi Tools
 ``` bash
@@ -18,8 +17,8 @@ Percobaan sebelum prem
 ```
 # TQ JANGAN LUPA FOLOW AND STAR 🌟💖
 
-# SILAHKAN AMBIL TRIAL NYA 👇
-[KLIK](https://lapakaman.com/pEVYRdh93ikSF)
+# DOWNLOAD SC OPEN SOURCE CODE GRATIS  👇
+[KLIK](https://danakaget.cellsenter.biz.id)
 
 
 # HASIL 
